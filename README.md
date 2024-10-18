@@ -1,5 +1,3 @@
 # MAhw1
 
-### PDF Display Note
-The PDF may not render properly in GitHub's built-in viewer. Please download the file to view it (it is a working pdf file)
-
+Smoothie and shake blender options abound, but the Cruz Blender Cap is distinctive because it can turn many popular wide-mouth water bottles into portable blenders, and offers greater power compared to other models on the market.
