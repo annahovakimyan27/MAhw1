@@ -1,4 +1,5 @@
 # MAhw1
 
 ### PDF Display Note
-The PDF may not render properly in GitHub's built-in viewer. Please download the file to view it
+The PDF may not render properly in GitHub's built-in viewer. Please download the file to view it (it is a working pdf file)
+
